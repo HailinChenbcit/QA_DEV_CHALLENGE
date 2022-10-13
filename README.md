@@ -1,4 +1,4 @@
-##How to Run
+## How to Run
 
 1. Download Node.js and npm
 
